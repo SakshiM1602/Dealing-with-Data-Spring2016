@@ -1,12 +1,11 @@
 ## Norman White - Dealing with Data  Spring 2016
-### The class notes are based on the course materials from Panos Ipeirotis
-### They have been modified to change some of the examples and data sets
-### as well as fit into a full-term format, but otherwise are mostly his materials
-### Thank you Panos!
+#####  The class notes are based on  course materials from Panos Ipeirotis
+#####  They have been modified to change some of the examples and data sets
+#####  as well as fit into a full-term format, but otherwise are mostly his materials
+##### Thank you Panos!
 
 ## Prerequisite: Setting up Linux on Amazon EC2
-Each student in the class will create their own linux system that has all (most) of the required software,
-as will as a data directory containing sample data sets. The original system is free, but you can enlarge it for a small fee for large projects. You will need to give Amazon a credit card to get started, but it won't be charged if you stick with the basic machine.
+Each student in the class will recieve their own linux system that has all (most) of the required software, as well as a data directory containing sample data sets. The original system is free, but you can enlarge it for a small fee for large projects. You will need to give Amazon a credit card to get started, but it won't be charged if you stick with the basic machine.
 
 * [Setting up a Linux machine on Amazon EC2](https://docs.google.com/document/d/1bc3bUINTGhW8hcwrx2goeAHOb6a4u7Bo2IwiQ2837gQ/edit "This should get you a working linux machine with data and software preloaded for the class")
 
